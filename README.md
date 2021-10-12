@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Digital Paper Flow](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Digital Paper Flow](Personal Project)**
 
 - 🌱 I’m currently learning **Node.js .**
 
