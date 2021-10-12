@@ -66,7 +66,7 @@
 <!-- <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/upwork-new.png"/></a> -->
 <a href = "https://www.linkedin.com/in/muhammad-salman-452860209/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/salman.ansari472/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/salman.ansari472/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a href = "https://www.facebook.com/profile.php?id=100006481130093"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 
 </p>
 
