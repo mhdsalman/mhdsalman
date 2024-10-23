@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Digital Paper Flow](Personal Project)**
 
-- 🌱 I’m currently learning **Node.js .**
+- 🌱 I’m currently learning **Nestjs**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
