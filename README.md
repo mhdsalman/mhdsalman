@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Service Drome**
+- 🔭 I’m currently working on **Pacific Silk**
 
 - 🌱 I’m currently learning **Nestjs**
 
