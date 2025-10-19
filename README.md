@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **DigitSec**
 
-- 🌱 I’m currently learning **Nestjs**
+- 🌱 I’m currently learning **FastAPI**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
